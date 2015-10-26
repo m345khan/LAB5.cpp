@@ -13,5 +13,7 @@ int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout<<"hiii";
 	cout<<"HIIII";
+	cout<<"Wokr";
+	cout<<"whateagdrb";
 	return 0;
 }
