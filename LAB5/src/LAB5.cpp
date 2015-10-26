@@ -14,6 +14,7 @@ int main() {
 	cout<<"hiii";
 	cout<<"HIIII";
 	cout<<"Wokr";
-	cout<<"whateagdrb";
+	cout<<"whateagdrb  ";
+
 	return 0;
 }
